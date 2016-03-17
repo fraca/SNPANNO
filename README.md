@@ -34,4 +34,4 @@ It prepare the input files for Snpdat and run it. It call the **SNPANNO_anno.sh*
 
 
 ##SNPANNO_sel_tri.sh  
-It filter the files take only the biallelic SNPs in CDS, the first transcript of each gene.
+It filter only the biallelic SNPs in CDS, in the first transcript of each gene.
