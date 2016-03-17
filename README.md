@@ -26,6 +26,7 @@ It prepare the input files for Snpdat and run it. It call the **SNPANNO_anno.sh*
 - frequency of variant allele
 - reference allele
 - variant allele
+- region
 - gene name
 - transcript name
 - codon (only for CDS)
