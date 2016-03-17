@@ -29,6 +29,7 @@ It prepare the input files for Snpdat and run it. It call the **SNPANNO_anno.sh*
 - region
 - gene name
 - transcript name
+- frame
 - codon (only for CDS)
 - protein (only for CDS)
 - synonymus (Y) non-synonymus (N)  (only for CDS)
